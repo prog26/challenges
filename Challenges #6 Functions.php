@@ -12,7 +12,7 @@ echo("---------------------------------- -Challenge 01:-------------------------
  $resultat = greetUser("amin");
  print_r($resultat);
  echo"<br>";
-echo("---------------------------------- -Challenge 02:-------------------------------")."<br>";
+echo("------------------------------------Challenge 02:-------------------------------")."<br>";
  //Challenge 02: The Calculation Engine (Return Values)
  
 function calculateArea( $width,  $height){
