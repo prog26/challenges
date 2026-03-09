@@ -2,7 +2,7 @@
 
 
 
-//Challenge 01: The Personalized Greeting (Parameters)
+//Challenge 01: The Personalized Greeting (Parameters).
 //Task: Write a function greetUser that accepts one parameter: $name.
 //  The function should output: "Hello, [name]! Ready to code?"
 echo("---------------------------------- -Challenge 01:-------------------------------")."<br>";
