@@ -1,7 +1,7 @@
 <?php
 $status =  "student" ;
 $nombre_des_commande = 13 ;
-$prix_du_the = 5;
+$prix_du_the = 5 ;
 
 
 $prix = ($prix_du_the * $nombre_des_commande);
