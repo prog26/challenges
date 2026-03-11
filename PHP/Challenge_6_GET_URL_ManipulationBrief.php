@@ -24,8 +24,7 @@ if(isset($_GET['sort'])){
 
     if($_GET['sort'] == 'desc'){
         rsort($products);
-    }
-    
+    }    
 }
 foreach($products as $p){
     echo $p ."<br>";
