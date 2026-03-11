@@ -4,8 +4,8 @@ session_start();
 
 
 
-if(!isset($_SESSION['cart'])){
-    $_SESSION['cart'] = [];
+if(!isset($_SESSION['carte'])){
+    $_SESSION['carte'] = [];
 }
 $products =["apple","samsung","realme"];
 
